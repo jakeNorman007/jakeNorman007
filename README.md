@@ -1,2 +1,1 @@
-## I am Jake.
-just trying to build cool stuff.
+##i am jake
