@@ -9,5 +9,6 @@ I currently work at [your lighting brand](https://yourlightingbrand.com/) as a d
 
 <p align="center">
     <a href="https://jakedev.netlify.app/">website </a> 
-    <a href="https://www.linkedin.com/in/jake-norman-b8b1352b1/">• linkedin</a>
+    <p>•</p>
+    <a href="https://www.linkedin.com/in/jake-norman-b8b1352b1/">linkedin</a>
 </p>
