@@ -7,8 +7,8 @@ I like to work on all different types of technologies and pride myself in being 
 
 I currently work at [your lighting brand](https://yourlightingbrand.com/) as a data coordinator, where my main focus is maintaining, gathering and cleansing data using primarily python and some of it's libraries. My skillset includes many other technologies, see my website and repos for a more comprehensive list.
 
-<p align="center">
-    <a href="https://jakedev.netlify.app/">website </a> 
+<div>
+    <p><a href="https://jakedev.netlify.app/">website </a></p>
     <p>•</p>
-    <a href="https://www.linkedin.com/in/jake-norman-b8b1352b1/">linkedin</a>
-</p>
+    <p><a href="https://www.linkedin.com/in/jake-norman-b8b1352b1/">linkedin</a></p>
+</div>
